@@ -1,0 +1,5 @@
+{
+  "version": "1.0.5",
+  "win":   { "url": "http://10.72.8.110:8000/QLSXAgent-1.0.5-Setup.exe", "sha256": "THAY_BANG_SHA256_64_KY_TU_HEX" },
+  "linux": { "url": "http://10.72.8.110:8000/qlsxagent_1.0.5_amd64.deb",  "sha256": "THAY_BANG_SHA256_64_KY_TU_HEX" }
+}
